@@ -15,7 +15,7 @@
    background-color:lightgray;
 }
 .person:hover{
-     background-color:gray; 
+     background-color:darkturquoise; 
     border: 1px solid tomato;
 }
 .person h3{

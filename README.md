@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# This is bilionare app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [This is bilionare app](https://world-bilionare-4a5ae3.netlify.app/).
+
+1.This is my bilionare app
+2.I make this app as assignment
+3.If u visit the site,you will know some valuable information
+
+
+
+
 
 ## Available Scripts
 
