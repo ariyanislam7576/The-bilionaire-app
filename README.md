@@ -6,16 +6,7 @@ This project was bootstrapped with [This is bilionare app](https://world-biliona
 
 ## 1.This is my bilionare app
 
-In the project directory, you can run:
-
 ### 2.I make this app as assignment
-
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### 3.If u visit the site,you will know some valuable information
 
