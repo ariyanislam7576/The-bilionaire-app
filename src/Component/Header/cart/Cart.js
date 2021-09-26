@@ -1,6 +1,5 @@
 import React from 'react';
 import './Cart.css'
-import Man from './man/Man';
  /*---------------------------------
         cart component
 --------------------------------*/
@@ -18,14 +17,7 @@ const Cart = (props) => {
         <div className='cart'>
             <h3>Person added {props.cart.length}</h3>
             <h4>Salary: ${salary}</h4>
-            <h4>Name: {name}  <br /></h4>
-            <div className='name'>
-                {
-                    cart.map(person => <Man
-                    key={person.name}
-                    person={person}></Man>)
-                }
-            </div>
+            <h4>Name: {name}</h4>
         </div>
     );
 };

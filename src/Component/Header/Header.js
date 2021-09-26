@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Cart from './cart/Cart';
-import Man from './cart/man/Man';
 import './Header.css'
 import Person from './person/Person';
 /*-------------------------------
