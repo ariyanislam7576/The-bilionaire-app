@@ -1,4 +1,11 @@
 .cart{
    text-align: left;
+   background-color:lightgray;
+   padding: 20px;
+   margin: 10px;
+   border-radius: 10px;
     
+}
+.cart:hover{
+   background-color: darkturquoise;
 }
