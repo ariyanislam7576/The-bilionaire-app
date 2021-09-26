@@ -1,12 +1,17 @@
+
+/* header section  */
 .header{
-    background-color: gray;
+    background-color:black;
     color: white;
 }
-.person-container{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-}
+/* main section  */
 .main-container{
     display: flex;
     width: 100%;
 }
+/* person section  */
+.person-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+

@@ -1,12 +1,5 @@
-.person img{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    margin: 15%;
-   
-}
+/* ---------person section-------- */
 .person{
-    width: 70%;
    text-align: left;
    margin: 10px;
    width: 300px;
@@ -14,13 +7,23 @@
    border-radius: 10px;
    background-color:lightgray;
 }
+
 .person:hover{
      background-color:darkturquoise; 
     border: 1px solid tomato;
 }
+
+.person img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 15%;
+   
+}
 .person h3{
     font-weight: 500;
 }
+
 button{
     padding: 10px 40px;
     background-color: gold;

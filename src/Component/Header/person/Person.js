@@ -1,12 +1,20 @@
 import React from 'react';
+/*get Icon */ 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faShoppingCart} from '@fortawesome/free-solid-svg-icons'
 import './Person.css'
 
+/*------------------------------
+        person component
+--------------------------------*/
+
 const Person = (props) => {
-    // console.log(props);
     const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />
+
+    /*------------distructure--------*/
+
     const {name,proffession,img,Country,AGE,salary} = props.person
+
     return (
         <div className='person'>
             <img src={img} alt="" />
